@@ -3,6 +3,9 @@
 <p align="center">
   <strong>⚔️ Advanced Party, Roster & Sub-Queue Management Bot for Albion Online Guilds</strong><br>
   <em>Albion Online Loncaları ve Oyuncuları için Gelişmiş Parti, Kadro ve Otomatik Yedek Yönetim Botu</em>
+  <em>
+    Invite the bot to your server
+    https://discord.com/oauth2/authorize?client_id=1543647897621368982&permissions=8&integration_type=0&scope=bot+applications.commands</em>
 </p>
 
 <p align="center">
